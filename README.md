@@ -4,6 +4,8 @@
 
 > Give your AI agents the power to manage their own crypto
 
+⚠️ **This is a demo project** - Built to showcase agentic wallet capabilities on Solana
+
 ## About PAW
 
 PAW (PocketAgent Wallet) is a specialized wallet infrastructure designed for AI agents to autonomously manage crypto assets and interact with DeFi protocols. Unlike traditional wallets built for humans, PAW enables AI agents to hold funds, execute transactions, and participate in DeFi—all without manual approval for every action.
@@ -38,12 +40,22 @@ PAW provides:
 
 ## Current Status
 
-🚧 **In Development** - Building for the Superteam DeFi Developer Challenge
+🎯 **Demo Project** - Showcasing autonomous wallet capabilities for AI agents on Solana
 
-**Phase 1:** Solana Implementation (Current Focus)
-- Starting with Solana for fast, low-cost transactions
-- Building core wallet infrastructure
-- Implementing basic DeFi integrations
+## About This Demo
+
+This project demonstrates how AI agents can autonomously manage crypto wallets and interact with DeFi protocols on Solana. It's built to showcase:
+
+- Programmatic wallet creation and management
+- Autonomous transaction signing (no manual approvals)
+- DeFi integration (Jupiter DEX for token swaps)
+- Real-time portfolio tracking
+- Secure key management with double encryption
+
+**Phase 1:** Solana Implementation (Current)
+- Fast, low-cost transactions on Solana
+- Core wallet infrastructure
+- Basic DeFi integrations
 
 **Phase 2:** Multi-chain Expansion (Planned)
 - EVM chains (Ethereum, Base, Polygon)
@@ -295,13 +307,12 @@ console.log(`Balance: ${balance} SOL`);
 
 ## Contributing
 
-This project is being developed for the Superteam DeFi Developer Challenge. Stay tuned for contribution guidelines after the initial release!
+This is a demo project showcasing agentic wallet capabilities. Feel free to explore the code and use it as inspiration for your own projects!
 
 ## License
 
-TBD
+MIT
 
 ---
 
-**Built for the Superteam DeFi Developer Challenge 2026**  
-*Empowering AI agents, one paw at a time* �
+**Demo Project - Built to showcase agentic wallet capabilities** 📟
